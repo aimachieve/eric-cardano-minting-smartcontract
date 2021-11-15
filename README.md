@@ -1,0 +1,1 @@
+"# eric-cardano-minting-smartcontract" 
